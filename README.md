@@ -1,6 +1,6 @@
-# Welcome, I'm Mariana Padilla 👩‍💻
+# Welcome, I'm Mariana Padilla 👋
 
-### Data Analyst
+### Data Analyst 📊
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="anaconda logo"  />
